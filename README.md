@@ -4,5 +4,6 @@
 1. **CREDIT CARD FRAUD DETECTION**
 2. **MOVIE RATING PREDICTION WITH PYTHON**
 
-<I>Fell free to reach out to me for any query/feedback.</i>
+<i>Feel free to reach out to me for any query/feedback.</i>
+
 -Email : tanveer22971@gmail.com
